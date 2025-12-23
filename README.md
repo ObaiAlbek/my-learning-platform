@@ -58,7 +58,7 @@ Möchtest du das Projekt auf deinem Computer ausführen?
 
 1.  **Repository klonen**
     ```bash
-    git clone [https://github.com/DEIN-USERNAME/devbase-learning-platform.git](https://github.com/DEIN-USERNAME/devbase-learning-platform.git)
+    git clone [https://github.com/ObaiAlbek/devbase-learning-platform.git](https://github.com/ObaiAlbek/devbase-learning-platform.git)
     cd devbase-learning-platform
     ```
 
@@ -94,7 +94,7 @@ Dies umfasst:
 Entwickelt von **Obai Albek**.
 Dieses Projekt ist Teil meiner Reise zum Full-Stack Entwickler.
 
-* [GitHub Profil](https://github.com/DEIN-USERNAME)
+* [GitHub Profil](https://github.com/ObaiAlbek)
 * [Portfolio / About Me](https://obaialbek.42web.io/?i=1)
 
 ---
