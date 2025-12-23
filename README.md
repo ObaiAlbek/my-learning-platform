@@ -4,11 +4,18 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 DevBase ist eine moderne **Full-Stack Learning Platform**, die Nutzern hilft, Webentwicklung (HTML & CSS) interaktiv zu lernen. Das Projekt umfasst Benutzerauthentifizierung, Quiz-Logik, einen Live-Code-Editor und automatische Zertifikatsgenerierung.
 
-🔗 **Live Demo:** [https://obai-devbase.netlify.app/]
-🎨 **Design:** [https://www.figma.com/design/Cp4lp0YvfTY2wQvRRPf3Ic/Learning-Plattform?node-id=0-1&t=nBMSkMVPG07v6haY-1]
+<p align="center">
+  <a href="https://obai-devbase.netlify.app/">
+    <img src="https://img.shields.io/badge/🔗_Live_Demo_ansehen-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://www.figma.com/design/Cp4lp0YvfTY2wQvRRPf3Ic/Learning-Plattform?node-id=0-1&t=nBMSkMVPG07v6haY-1">
+    <img src="https://img.shields.io/badge/🎨_Design_in_Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Design" />
+  </a>
+</p>
 
 ---
 
@@ -34,7 +41,7 @@ DevBase ist eine moderne **Full-Stack Learning Platform**, die Nutzern hilft, We
 
 ## 🛠 Tech Stack
 
-Dieses Projekt wurde mit modernen Web-Technologies entwickelt:
+Dieses Projekt wurde mit modernen Web-Technologien entwickelt:
 
 * **Frontend:** React (Vite), JavaScript (ES6+)
 * **Routing:** React Router DOM (v7) – *Single Page Application (SPA)*
@@ -42,6 +49,31 @@ Dieses Projekt wurde mit modernen Web-Technologies entwickelt:
 * **Styling:** CSS3 (Custom Responsive Design, CSS Variables)
 * **Services:** EmailJS (für Transaktions-E-Mails)
 * **Design:** Figma (UI/UX Prototyping)
+
+---
+
+## 💻 Installation (Lokal)
+
+Möchtest du das Projekt auf deinem Computer ausführen?
+
+1.  **Repository klonen**
+    ```bash
+    git clone [https://github.com/DEIN-USERNAME/devbase-learning-platform.git](https://github.com/DEIN-USERNAME/devbase-learning-platform.git)
+    cd devbase-learning-platform
+    ```
+
+2.  **Abhängigkeiten installieren**
+    ```bash
+    npm install
+    ```
+
+3.  **Environment Variablen**
+    Erstelle eine `.env` Datei im Hauptverzeichnis für die API-Keys (Supabase & EmailJS).
+
+4.  **Starten**
+    ```bash
+    npm run dev
+    ```
 
 ---
 
@@ -53,7 +85,7 @@ Dies umfasst:
 * Responsive Design Planung (Mobile & Desktop)
 * Style Guide (Farben, Typografie)
 
-👉 **[Hier klicken, um das Design in Figma anzusehen]https://www.figma.com/design/Cp4lp0YvfTY2wQvRRPf3Ic/Learning-Plattform?node-id=0-1&t=nBMSkMVPG07v6haY-1
+👉 **[Hier klicken, um das Design in Figma anzusehen](https://www.figma.com/design/Cp4lp0YvfTY2wQvRRPf3Ic/Learning-Plattform?node-id=0-1&t=nBMSkMVPG07v6haY-1)**
 
 ---
 
