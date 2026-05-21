@@ -41,7 +41,7 @@ function Navbar({ isLoggedIn, currentPath }) {
             <Link to="/css/intro" onClick={closeMenu}>CSS</Link>
           </li>
           <li>
-            <a href="https://obaialbek.42web.io/?i=1" className="nav-special" target="_blank" rel="noreferrer" onClick={closeMenu}>
+            <a href="https://obaialbek.vercel.app/" className="nav-special" target="_blank" rel="noreferrer" onClick={closeMenu}>
               About me
             </a>
           </li>
